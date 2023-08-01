@@ -14,7 +14,8 @@ enum class Environment {
         override fun path(endpoint: Endpoint): String {
             return when(endpoint) {
                 Endpoint.SignIn -> "/auth/login"
-                Endpoint.Home -> "/products"
+                Endpoint.Categories -> "/products/categories"
+                Endpoint.ProductsByCategory -> "/products/category"
                 Endpoint.Details -> "/products" //product ID added to path dynamically
             }
         }
@@ -29,6 +30,7 @@ enum class Environment {
 
 enum class Endpoint {
     SignIn,
-    Home,
+    Categories,
+    ProductsByCategory,
     Details
 }

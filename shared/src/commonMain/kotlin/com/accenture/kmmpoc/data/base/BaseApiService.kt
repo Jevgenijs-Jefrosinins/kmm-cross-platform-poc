@@ -12,7 +12,7 @@ open class BaseApiService(
 
     protected suspend inline fun <reified T> get(
         endpoint: Endpoint,
-        crossinline requestConfig: HttpRequestBuilder.() -> Unit
+        crossinline requestConfig: HttpRequestBuilder.() -> Unit = {}
     ): T = client.get {
         baseRequestConfig(endpoint)
         requestConfig()
