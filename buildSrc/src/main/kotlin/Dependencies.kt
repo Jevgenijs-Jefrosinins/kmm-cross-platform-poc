@@ -10,6 +10,8 @@ object Dependencies {
     const val composeFoundation = "androidx.compose.foundation:foundation:${Versions.composeFoundation}"
     const val composeMaterial = "androidx.compose.material:material:${Versions.composeMaterial}"
     const val activityCompose = "androidx.activity:activity-compose:${Versions.activityCompose}"
+    const val composeTest = "androidx.compose.ui:ui-test-junit4:${Versions.composeUI}"
+    const val composeTestManifest = "androidx.compose.ui:ui-test-manifest:${Versions.composeUI}"
 
     // Ktor
     const val ktorClientCore = "io.ktor:ktor-client-core:${Versions.ktor}"
@@ -54,7 +56,7 @@ object Versions {
     const val androidLibrary = "7.4.0"
     const val kotlinAndroid = "1.8.10"
     const val compileSdk = 33
-    const val minSdk = 23
+    const val minSdk = 24
     const val targetSdk = 33
     const val jvmTarget = "1.8"
     const val composeCompilerExtension = "1.4.4"

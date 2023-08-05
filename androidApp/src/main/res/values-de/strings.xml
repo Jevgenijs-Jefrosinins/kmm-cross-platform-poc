@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VODCatalog</string>
+    <string name="login_subtitle">Discover and enjoy unlimited movies</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="forgot_pwd">Forgot your password?</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Don\'t have an account? Sign up</string>
+</resources>

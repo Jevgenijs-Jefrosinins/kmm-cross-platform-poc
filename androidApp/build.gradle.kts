@@ -39,6 +39,7 @@ android {
 }
 
 dependencies {
+    api(project(":presentation"))
     api(project(":shared"))
     implementation(Dependencies.composeUI)
     implementation(Dependencies.composeUITooling)
