@@ -1,5 +1,6 @@
 package com.accenture.kmmpoc.data.di
 
+import com.accenture.kmmpoc.Greeting
 import com.accenture.kmmpoc.domain.auth.SignInUseCase
 import com.accenture.kmmpoc.domain.di.useCaseModule
 import com.accenture.kmmpoc.domain.home.CategoriesUseCase
@@ -25,4 +26,6 @@ object Container {
     fun getCategoriesUseCase() = di.direct.instance<CategoriesUseCase>()
     fun getCategoryProductsUseCase() = di.direct.instance<CategoryProductsUseCase>()
     fun getProductDetailsUseCase() = di.direct.instance<ProductDetailsUseCase>()
+
+    fun getGreeting() = di.direct.instance<Greeting>()
 }

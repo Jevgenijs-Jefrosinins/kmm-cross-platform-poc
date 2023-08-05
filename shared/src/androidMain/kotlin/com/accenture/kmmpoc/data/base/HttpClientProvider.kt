@@ -1,3 +1,5 @@
+@file:JvmName("HttpClientProviderJvm")
+
 package com.accenture.kmmpoc.data.base
 
 import io.ktor.client.*

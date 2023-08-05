@@ -1,5 +1,6 @@
 package com.accenture.kmmpoc.domain.di
 
+import com.accenture.kmmpoc.Greeting
 import com.accenture.kmmpoc.domain.auth.SignInUseCase
 import com.accenture.kmmpoc.domain.home.CategoriesUseCase
 import com.accenture.kmmpoc.domain.home.CategoryProductsUseCase
@@ -17,4 +18,6 @@ val useCaseModule = DI.Module("UseCaseModule") {
     bind<CategoriesUseCase>() with provider { CategoriesUseCase(instance()) }
     bind<CategoryProductsUseCase>() with provider { CategoryProductsUseCase(instance()) }
     bind<ProductDetailsUseCase>() with provider { ProductDetailsUseCase(instance()) }
+
+    bind<Greeting>() with provider { Greeting() }
 }
