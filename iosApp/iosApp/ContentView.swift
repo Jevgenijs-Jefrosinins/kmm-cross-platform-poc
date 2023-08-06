@@ -2,10 +2,12 @@ import SwiftUI
 import shared
 
 struct ContentView: View {
-	let greet = Greeting().greet()
+    @EnvironmentObject var sampleViewModel: SampleViewModel
+    let greet = Greeting().greet()
 
 	var body: some View {
-		Text(greet)
+        Text(greet)//(sampleViewModel.greet())
+//            .environmentObject(sampleViewModel)
 	}
 }
 
