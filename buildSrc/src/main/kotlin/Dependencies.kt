@@ -48,18 +48,18 @@ object Dependencies {
 object Versions {
 
     // Gradle
-    const val kotlinSerializationPlugin = "1.8.10"
-    const val kotlinMultiplatform = "1.8.10"
+    const val kotlinSerializationPlugin = "1.9.10"
+    const val kotlinMultiplatform = "1.9.10"
 
     // Gradle / Android
     const val androidApp = "7.4.0"
     const val androidLibrary = "7.4.0"
-    const val kotlinAndroid = "1.8.10"
+    const val kotlinAndroid = "1.9.10"
     const val compileSdk = 33
     const val minSdk = 24
     const val targetSdk = 33
     const val jvmTarget = "1.8"
-    const val composeCompilerExtension = "1.4.4"
+    const val composeCompilerExtension = "1.5.3"
 
     // Kotlin
     const val kotlinSerialization = "1.4.1"
