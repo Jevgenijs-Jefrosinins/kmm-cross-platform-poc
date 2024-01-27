@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -62,8 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				7555FF7D242A565900829871 /* iosApp */,
-				830E21272B6576980001D637 /* Resources */,
-				7555FF8C242A565B00829871 /* Info.plist */,
 				7555FF7C242A565900829871 /* Products */,
 				7555FFB0242A642200829871 /* Frameworks */,
 			);
@@ -83,6 +81,8 @@
 				7555FF82242A565900829871 /* ContentView.swift */,
 				2152FB032600AC8F00CF470E /* iOSApp.swift */,
 				F91763BF2A7F821C00DA1E41 /* SampleViewModel.swift */,
+				7555FF8C242A565B00829871 /* Info.plist */,
+				830E21272B6576980001D637 /* Resources */,
 				058557D7273AAEEB004C7B11 /* Preview Content */,
 			);
 			path = iosApp;
