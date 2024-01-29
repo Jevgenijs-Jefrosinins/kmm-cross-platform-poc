@@ -1,0 +1,414 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "App Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lietotnes Iestatījumi"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки Приложения"
+          }
+        }
+      }
+    },
+    "Continue watching" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turpināt skatīties"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Продолжить просмотр"
+          }
+        }
+      }
+    },
+    "Dark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tumša"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Темная"
+          }
+        }
+      }
+    },
+    "Discover and enjoy unlimited movies" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atklājiet un izbaudiet neierobežotas filmas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Открывайте для себя и наслаждайтесь неограниченным количеством фильмов"
+          }
+        }
+      }
+    },
+    "Don't have an account?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai jums nav konta?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У вас нет учетной записи?"
+          }
+        }
+      }
+    },
+    "Downloads" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lejupielādes"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Загрузки"
+          }
+        }
+      }
+    },
+    "Edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rediģēt"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Редактировать"
+          }
+        }
+      }
+    },
+    "Followers" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekotāji"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подписчики"
+          }
+        }
+      }
+    },
+    "Following" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekojošs"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Подписки"
+          }
+        }
+      }
+    },
+    "For You" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jums"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Для Вас"
+          }
+        }
+      }
+    },
+    "Forgot your password?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vai aizmirsi paroli?"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Забыли свой пароль?"
+          }
+        }
+      }
+    },
+    "Good afternoon!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Labdien!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добрый день!"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valoda"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
+          }
+        }
+      }
+    },
+    "Light" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gaismas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Светлая"
+          }
+        }
+      }
+    },
+    "Likes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patīkas"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Понравилось"
+          }
+        }
+      }
+    },
+    "Log in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pieslēgties"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторизоваться"
+          }
+        }
+      }
+    },
+    "More" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vairāk"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Далее"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parole"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пароль"
+          }
+        }
+      }
+    },
+    "Playlist" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atskaņošanas saraksts"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Плейлист"
+          }
+        }
+      }
+    },
+    "Popular Videos" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Populāri Video"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Популярные Видео"
+          }
+        }
+      }
+    },
+    "Sign up" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Izveidot jaunu kontu"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Создать учётную запись"
+          }
+        }
+      }
+    },
+    "Theme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tēma"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тема"
+          }
+        }
+      }
+    },
+    "Username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lietotājs"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имя пользователя"
+          }
+        }
+      }
+    },
+    "VOD Catalog" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "lv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOD Katalogs"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOD Каталог"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
